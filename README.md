@@ -57,8 +57,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=sabbir-tanvir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir-tanvir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sabbir-tanvir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir-tanvir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages"/>
 </div>
 
 <br/><br/>
@@ -68,11 +68,11 @@
 <br/>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br/>
-![](https://github-profile-trophy.vercel.app/?username=sabbir-tanvir&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=sabbir-tanvir&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 <br/>
 <hr/>
 <div align="center">
-<a href='https://ko-fi.com/sabbir30630' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/sabbir30630' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'></a>
 </div>
 
 <br/>
