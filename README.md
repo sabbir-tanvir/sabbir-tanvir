@@ -60,6 +60,24 @@
   <img src="https://streak-stats.demolab.com?user=sabbir-tanvir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir-tanvir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages"/>
 </div>
+<p align="center">
+  <a href="https://github.com/sabbir-tanvir">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbir-tanvir&theme=radical" alt="Harun's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/sabbir-tanvir"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sabbir-tanvir&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/harun181"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sabbir-tanvir&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir-tanvir&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+
+<br/>
+
 
 <br/><br/>
 
