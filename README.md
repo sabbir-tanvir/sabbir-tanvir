@@ -60,11 +60,13 @@
   <img src="https://streak-stats.demolab.com?user=sabbir-tanvir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir-tanvir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="top languages"/>
 </div>
+<div align=center>
 <p align="center">
   <a href="https://github.com/sabbir-tanvir"><img alt="Sabbir Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sabbir-  tanvir&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
   <a href="https://github.com/sabbir-tanvir"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbir-tanvir&theme=radical" alt="Harun's GitHub Contribution"/></a>
 </p>
+</div>
 
 
 
