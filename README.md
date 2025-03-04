@@ -47,7 +47,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake animation](https://github.com/sabbir-tanvir/sabbir-tanvir/blob/output/github-contribution-grid-snake2.svg)
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sabbir-tanvir/sabbir-tanvir/output/github-contribution-grid-snake.svg" />
+  
   <br/><br/><br/>
 </div>
 
